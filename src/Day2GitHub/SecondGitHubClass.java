@@ -9,6 +9,6 @@ public class SecondGitHubClass {
         System.out.println("*".repeat(70-5));
         //coment added in the Git Hub
 
-
+//klkjhhh
     }
 }
