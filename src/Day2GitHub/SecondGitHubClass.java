@@ -7,6 +7,7 @@ public class SecondGitHubClass {
         System.out.println("i am creating conflict");
         System.out.println("2+2");
         System.out.println("*".repeat(70-5));
+        //coment added in the Git Hub
 
 
     }
